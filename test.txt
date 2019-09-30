@@ -3,3 +3,5 @@ Test Test dascd
 blah
 #service:java-tcp
 service:java-tcp
+tags:
+  - service: java-tcp
